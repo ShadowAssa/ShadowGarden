@@ -1,0 +1,21 @@
+{
+  "name": "shadowgarden",
+  "displayName": "👑 Config BloodStrike ZYNICONE01 👑",
+  "version": "1.0.2",
+  "description": "Built with APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Builder",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
